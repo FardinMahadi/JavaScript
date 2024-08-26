@@ -1,11 +1,12 @@
-.bulb {
-  background: yellow;
-  box-shadow: 2px 2px 10px 5px rgba(255, 191, 0, 0.304);
-}
-
 .bulb-container {
   height: 34px;
   width: 34px;
   border: 2px solid black;
   border-radius: 50%;
+  box-shadow: 2px 2px 10px 5px rgb(220, 219, 219);
+}
+
+.bulb {
+  background: yellow;
+  box-shadow: 2px 2px 10px 5px #f3e0aa;
 }
